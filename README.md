@@ -7,7 +7,19 @@ A simulated project management case study demonstrating end-to-end process impro
 ### Project Objective
 
 Define and deliver an MVP concept to reduce avoidable customer support interactions by improving customer access to status information, reducing waiting, and increasing visibility and ownership.
+## Executive Portfolio
 
+**[View Executive Portfolio — Rinku_KS_Executive_Portfolio_P02.pdf](./Rinku_KS_Executive_Portfolio_P02.pdf)**
+## Project Evidence
+
+The supporting project artifacts are organized by delivery stage:
+
+- [01 — Project Brief](./01_Project_Brief/)
+- [02 — Process Improvement](./02_Process_Improvement/)
+- [03 — Lean Analysis](./03_Lean_Analysis/)
+- [04 — Agile / Jira](./04_Agile_Jira/)
+- [05 — SDLC Governance](./05_SDLC_Governance/)
+A concise executive overview of the project, including the business problem, current-state analysis, future-state design, improvement backlog, Agile/Jira execution, SDLC governance and key PM capabilities demonstrated.
 ### Business Problem
 
 Customer requests relied heavily on support channels for routine status and information needs.
